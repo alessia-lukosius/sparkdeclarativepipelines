@@ -1,9 +1,7 @@
-# Spark Declarative Pipelines
+Spark Declarative Pipelines
 
-- Esse projeto foi desenvolvido de maneira autêntica, toda a ideia do projeto veio a partir de casos de estudos.
-- Uma breve apresentação está disponível no YouTube, recomendo assistir o vídeo para melhor entendimento.
-- Esse projeto pode ser copiado e utilizado para demais fins, desde que envolva muito aprendizado <3
-- O material está todo disponível abaixo, qualquer dúvida contatar no linkedin
-
-  https://linkedin.com/in/alessia-lukosius
-  
+This project was developed authentically, with all ideas originating from real case studies.
+A brief presentation is available on YouTube — I recommend watching the video for a better understanding.
+This project may be copied and used for other purposes, as long as it involves a lot of learning <3
+All materials are available below. For any questions, feel free to reach out on LinkedIn:
+https://linkedin.com/in/alessia-lukosius
