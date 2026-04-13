@@ -1,3 +1,5 @@
+# nice to have: insert schema of files when reading it using autoloader.
+
 from pyspark.sql.functions import udf
 from pyspark.sql.types import BooleanType
 import re
