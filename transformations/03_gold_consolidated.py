@@ -1,4 +1,6 @@
 # Databricks notebook source
+# Gold Consolidated
+
 from pyspark import pipelines as dp
 from pyspark.sql import functions as F
 
