@@ -9,3 +9,5 @@ https://youtu.be/_0wsFS5meSg
 
 Todos os materiais estão disponíveis abaixo. Para qualquer dúvida, sinta-se à vontade para entrar em contato pelo LinkedIn:
 https://linkedin.com/in/alessia-lukosius
+
+
