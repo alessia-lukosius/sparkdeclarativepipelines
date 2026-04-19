@@ -144,7 +144,6 @@ O projeto inclui 4 CSVs de amostra para demonstração do comportamento dos pipe
 ```
 alessiaairlines/
 ├── notebooks/
-│   ├── 00_project_setup.py
 │   ├── 01_bronze_silver_documents_daily.py
 │   ├── 02_bronze_silver_agencies.py
 │   └── 03_gold_consolidated.py
