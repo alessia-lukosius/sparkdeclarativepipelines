@@ -139,22 +139,4 @@ O projeto inclui 4 CSVs de amostra para demonstração do comportamento dos pipe
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```
-alessiaairlines/
-├── notebooks/
-│   ├── 01_bronze_silver_documents_daily.py
-│   ├── 02_bronze_silver_agencies.py
-│   └── 03_gold_consolidated.py
-├── sample_data/
-│   ├── documents_20260601.csv
-│   ├── documents_20260602.csv
-│   ├── agencies_202605.csv
-│   └── agencies_202606.csv
-└── README.md
-```
-
----
-
 *Projeto desenvolvido como demonstração técnica de pipelines de engenharia de dados modernos com Databricks Spark Declarative Pipelines e Unity Catalog.*
