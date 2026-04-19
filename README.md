@@ -1,6 +1,9 @@
-# ✈️ AlessiaAirlines — Databricks Data Engineering Pipeline
+# AlessiaAirlines — Databricks Data Engineering Pipeline
 
 Pipeline de engenharia de dados construído com **Spark Declarative Pipelines (SDP)** no Databricks, implementando arquitetura medallion completa (Landing → Bronze → Silver → Gold) com Unity Catalog.
+
+Para maior entendimento do projeto recomendo assistir ao vídeo gravado explicando: 
+https://youtu.be/_0wsFS5meSg
 
 ---
 
